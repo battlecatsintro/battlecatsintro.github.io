@@ -36,6 +36,7 @@ body {
   width: 600px;
   margin: 0 auto;
   background-color: #FF9500;
+  border: 3px solid black;
 }
 
 h1 {
